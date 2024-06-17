@@ -52,42 +52,75 @@ Utilisation de PyCaret pour entraîner plusieurs modèles de classification mult
 
 Tester l'un des services MLaaS suivants en utilisant les versions d'essai gratuites :
     • Google Cloud Platform avec Vertex AI
+    
     • AWS avec SageMaker
+    
     • Azure avec Azure Machine Learning
+    
     • DataRobot
+    
 Les étapes incluent :
+
     • Déploiement du modèle d'analyse de sentiment
+    
     • Documentation des étapes de construction, déploiement et monitoring avec des captures d'écran ou des scripts
+    
 6. Présentation et Repository GitHub
+   
 Présentation
+
 Préparer une présentation explicative sous forme de diapositives, incluant :
+
     • La réflexion derrière le travail
+    
     • L'organisation sur Trello (ou tout autre outil de gestion de projet)
+    
     • Les captures d'écran des différentes étapes
+    
 Repository GitHub
+
 Créer un repository public nommé ml-in-the-clouds contenant :
+
     • Un notebook Jupyter propre et commenté pour le développement de l'outil, du prétraitement à la modélisation
+    
     • Un fichier README.md décrivant le contexte du projet, les données, les outils utilisés et une conclusion
+    
 Plan d'action détaillé
 
 
 
     1. Recherche et veille technologique
+    
         ◦ Effectuer une recherche sur les sujets indiqués et rédiger un rapport détaillé.
+        
         ◦ Prochaine étape : Rédiger le rapport de veille technologique.
+
         
     2. Pré-traitement et analyse exploratoire des données
+    
         ◦ Charger et nettoyer les fichiers de données d'entraînement et de test.
+        
         ◦ Prochaine étape : Effectuer une analyse exploratoire et créer des visualisations.
+
         
     3. Entraînement et comparaison des modèles
+    
         ◦ Utiliser PyCaret pour entraîner plusieurs modèles de classification multi-classes.
+        
         ◦ Prochaine étape : Initialiser l'environnement PyCaret et entraîner les modèles.
+
+        
         
     4. Déploiement sur une plateforme MLaaS
+    
         ◦ Choisir une plateforme MLaaS et déployer le modèle.
+        
         ◦ Prochaine étape : Documenter chaque étape avec des captures d'écran ou des scripts.
+
+        
         
     5. Création de la présentation et du repository GitHub
+    
         ◦ Préparer la présentation explicative et créer le repository GitHub.
+        
         ◦ Prochaine étape : Rédiger le notebook Jupyter et le fichier README.md.
