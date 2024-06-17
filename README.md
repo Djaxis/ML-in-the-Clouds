@@ -2,31 +2,52 @@
 
    
 Nous devons faire une recherche concise sur les sujets suivants :
+
     • AutoML et ses avantages
+    
     • MLaaS et ses avantages
+    
     • Google Cloud Platform et Vertex AI
+    
     • AWS et SageMaker
+    
     • Azure et Azure Machine Learning
+    
     • DataRobot
+    
 Pour cette partie, nous allons réaliser des recherches en ligne et résumer les informations dans un rapport structuré.
 
 
 
 3. Analyse de sentiments avec AutoML
+   
 Pré-traitement des données
+
 Nous utiliserons les fichiers sentiment_analysis_emotions_train.csv et sentiment_analysis_emotions_test.csv pour cette tâche. Les étapes incluent :
+
     • Chargement des données
+    
     • Nettoyage des données (gestion des valeurs manquantes, normalisation, etc.)
+    
     • Exploration des données pour comprendre leur structure et distribution
+    
 Visualisation des données
+
 Créer des visualisations pour explorer les données, notamment des histogrammes, des nuages de mots, etc., pour les données textuelles.
+
 Entraînement des modèles
+
 Utilisation de PyCaret pour entraîner plusieurs modèles de classification multi-classes. Les étapes incluent :
+
     • Installation et importation de PyCaret
+    
     • Initialisation de l'environnement de PyCaret pour la classification
+    
     • Entraînement de différents modèles
+    
     • Comparaison des modèles selon différentes métriques (précision, rappel, F1-score, etc.)
-4. Déploiement sur une plateforme MLaaS
+    
+5. Déploiement sur une plateforme MLaaS
 
 
 Tester l'un des services MLaaS suivants en utilisant les versions d'essai gratuites :
